@@ -5,4 +5,19 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\..\..\..\Program Files\Unity\Hub\Editor\2022.3.19f1\Editor\Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\..\..\..\Program Files\Unity\Hub\Editor\2022.3.19f1\Editor\Data\Resources\PackageManager\ProjectTemplates\libcache\com.unity.template.universal-2d-2.1.2\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsModule">
+      <HintPath>..\..\..\..\..\Program Files\Unity\Hub\Editor\2022.3.19f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIElementsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>..\..\..\..\..\Program Files\Unity\Hub\Editor\2022.3.19f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
